@@ -4,7 +4,7 @@ A kanban board for your job search. Drag applications through **Wishlist -> Appl
 
 | | |
 |---|---|
-| Live demo | _added after deploy_ (click **Try the live demo**: no sign-up, you get a private sandbox with sample data) |
+| Live demo | https://flowboard-app-eight.vercel.app (click **Try the live demo**: no sign-up, you get a private sandbox with sample data) |
 
 ![Board](docs/screenshots/board.jpg)
 
